@@ -6,7 +6,7 @@ v_lei <- c()
 v_n <- c()
 v_pi <- c()
 p=0
-while (p<=300)
+while (p<=200)
 {
   
   lval = (((-1.0)**p)/(2.0*p+1.0))
